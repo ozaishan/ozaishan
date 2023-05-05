@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oza Ishan</h1>
 <h3 align="center">An undergraduate of ComputerScience at Kathmandu University.</h3>
+<img align ="right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozaishan&label=Profile%20views&color=0e75b6&style=flat" alt="ozaishan" /> </p>
 
