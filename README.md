@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Framework, web development courses**
 
 - 📫 How to reach me **ojhaishan007@gmail.com**
-- 🪪  Visit My Portfolio:  **<a href = "ishanojha.com.np" target="blank">Ishan.com.np</a>**
+- 🪪  Visit My Portfolio:  <a href = "ishanojha.com.np" target="blank">Ishan.com.np</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
