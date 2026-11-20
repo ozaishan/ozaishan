@@ -4,7 +4,7 @@
 
 <h1 align="center">⚡ Hi, I'm Oza Ishan ⚡</h1>
 <h3 align="center" style="color:#B388FF;">Computer Science Undergraduate @ Kathmandu University</h3>
-<h3 align="center" style="color:#B388FF;">Devops Intern @City Wallet Pvt. Ltd</h3>
+<h3 align="center" style="color:#B388FF;">Ex Devops Intern @City Wallet Pvt. Ltd</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ozaishan&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" />
